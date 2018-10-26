@@ -9,7 +9,7 @@ namespace TestCI_MSTest
         [TestMethod]
         public void TestMethod1()
         {
-            string temp = "kartik258";
+            string temp = "kartik25";
             Assert.IsNotNull(temp);
         }
     }
